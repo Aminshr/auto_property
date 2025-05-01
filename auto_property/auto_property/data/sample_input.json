@@ -1,0 +1,25 @@
+{
+  "product": {
+    "name": "Smart Thermostat X1",
+    "description": "The Smart Thermostat X1 is a revolutionary device that helps you maintain the perfect temperature in your home while saving energy. With its sleek design and intuitive interface, it blends seamlessly into any modern home.",
+    "features": [
+      "AI-powered temperature optimization",
+      "Voice control compatibility",
+      "Energy usage reports",
+      "Remote access via smartphone app",
+      "Geofencing for automatic adjustments"
+    ],
+    "specifications": {
+      "dimensions": "4.5\" x 4.5\" x 1.0\"",
+      "weight": "8.5 oz",
+      "color_options": ["Black", "White", "Silver"],
+      "connectivity": "Wi-Fi, Bluetooth 5.0",
+      "power_source": "24V AC or battery backup"
+    },
+    "price": {
+      "amount": 249.99,
+      "currency": "USD"
+    },
+    "warranty": "2-year limited manufacturer warranty"
+  }
+}

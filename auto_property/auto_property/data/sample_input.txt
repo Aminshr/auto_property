@@ -1,0 +1,14 @@
+<h1>Sample Product Description</h1>
+<p>This is a <b>fantastic</b> product with many features!</p>
+<ul>
+  <li>Feature 1: High-quality material (100% cotton)</li>
+  <li>Feature 2: Water-resistant & durable</li>
+  <li>Feature 3: Available in multiple colors: red, blue, green</li>
+</ul>
+<p>Price: $29.99</p>
+<p>Product dimensions: 10" x 5" x 2"</p>
+<p>Weight: 1.5 lbs</p>
+<p>Manufacturer: ACME Corp.</p>
+<p>Made in USA</p>
+<p>Product code: ABC-123-XYZ</p>
+<p>This product is perfect for outdoor activities and everyday use. It has received 4.5/5 stars from over 1,000 customer reviews!</p>

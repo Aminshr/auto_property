@@ -1,0 +1,36 @@
+{
+  "sample_input": {
+    "product": "Sample Product",
+    "price": "$29.99",
+    "weight": "1.5 lbs",
+    "dimensions": "10\" x 5\" x 2\"",
+    "manufacturer": "ACME Corp.",
+    "origin": "USA",
+    "product_code": "ABC-123-XYZ",
+    "material": "cotton",
+    "features": "water-resistant, durable, multiple colors"
+  },
+  "large_sample_input": {
+    "dimensions": "12.5\" x 8.3\" x 0.6\"",
+    "weight": "2.4 lbs",
+    "material": "aluminum alloy",
+    "display": "10.2\" Retina display",
+    "resolution": "2560 x 1600 pixels",
+    "processor": "Quad-core 2.4GHz",
+    "ram": "8GB",
+    "storage": "128GB, 256GB, 512GB, 1TB",
+    "battery_life": "10 hours",
+    "connectivity": "Wi-Fi 6, Bluetooth 5.0, USB-C",
+    "warranty": "2-year manufacturer's warranty"
+  },
+  "sample_input_json": {
+    "name": "Smart Thermostat X1",
+    "dimensions": "4.5\" x 4.5\" x 1.0\"",
+    "weight": "8.5 oz",
+    "connectivity": "Wi-Fi, Bluetooth 5.0",
+    "power_source": "24V AC or battery backup",
+    "price": "249.99",
+    "warranty": "2-year limited manufacturer warranty",
+    "color_options": "Black, White, Silver"
+  }
+}

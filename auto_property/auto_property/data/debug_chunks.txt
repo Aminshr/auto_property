@@ -1,0 +1,3 @@
+--- Chunk 000 ---
+sample product description this is a fantastic product with many features! feature 1: high-quality material (100 cotton) feature 2: water-resistant durable feature 3: available in multiple colors: red, blue, green price: 29.99 product dimensions: 10 x 5 x 2 weight: 1.5 lbs manufacturer: acme corp. made in usa product code: abc-123-xyz this product is perfect for outdoor activities and everyday use. it has received 4.5 5 stars from over 1,000 customer reviews!
+
